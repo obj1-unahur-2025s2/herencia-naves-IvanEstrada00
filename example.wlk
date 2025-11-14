@@ -27,6 +27,6 @@ class Pasajeros {
 class Combate {
   var visibilidad
   method ponerseVisible() {
-    
+    //12345
   }
 }
